@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(AMR_project)
+project(amr_project)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
